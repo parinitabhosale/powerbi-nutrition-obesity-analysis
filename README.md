@@ -14,10 +14,10 @@ Excel dataset of 2,084 people provided during the Data Science and Analytics int
 
 ## Dashboard preview
 ### Page 1: Nutrition & Obesity Analysis
-![Nutrition and Obesity Analysis](dashboard_page1.png)
+![Nutrition and Obesity Analysis](dashboard_page_1.png)
 
 ### Page 2: Lifestyle Analysis
-![Lifestyle Analysis](dashboard_page2.png)
+![Lifestyle Analysis](dashboard_page_2.png)
 
 ## Key findings
 - Average BMI is 29.77, and 46.64% of people fall into one of the three obesity categories.
